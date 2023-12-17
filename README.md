@@ -16,6 +16,7 @@ Pada bagian ini, dibuat 3 file html php berupa halaman login, halaman register, 
 
 ### Tampilan Register :
 ![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/8d977717-fcfc-4431-9d10-7d7c422180e2)
+
 <br>Bagian ini merupakan redirect dari halaman login, dimana user akan diminta untuk melakukan pendaftaran akun dengan mendaftarkan username beserta password. Inputan yang dilakukan nantinya akan disave ke dalam tabel database khusus yang digunakan untuk menampung daftar akun yang dapat mengakses halaman web.
 ![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/dd432564-a783-4b69-8321-ce09b00afef9)
 

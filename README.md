@@ -1,10 +1,9 @@
 # 121140098_UAS_Pemweb
+<br>web kali ini dibuat untuk melakukan registrasi perlombaan melalui web
+<br>inputan yang dilakukan kemudian akan disimpan ke dalam database
 
-web kali ini dibuat untuk melakukan registrasi perlombaan melalui web
-inputan yang dilakukan kemudian akan disimpan ke dalam database
-
-berikut web yang telah dihosting : https://projectuasbudhi.000webhostapp.com/
-note : akan muncul peringatan ketika mengakses link diatas. Cukup pilih tombol detail, lalu ketik "visit this site" maka situs akan dapat diakses.
+<br>berikut web yang telah dihosting : https://projectuasbudhi.000webhostapp.com/
+<br>note : akan muncul peringatan ketika mengakses link diatas. Cukup pilih tombol detail, lalu ketik "visit this site" maka situs akan dapat diakses.
 
 ## Bagian 1: Client-side Programming (Bobot: 30%)
 

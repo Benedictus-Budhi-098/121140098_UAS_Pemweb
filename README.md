@@ -46,20 +46,6 @@ Pada bagian ini, dibuat 2 file berjenis php, yakni file koneksi dan file DataHan
 ![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/7d8f24c1-e99a-4a41-9509-60a8d9c6468b)
 <br>Kode diatas digunakan untuk menampung fungsi-fungsi terkait manipulasi data pada server mysql. Manipulasi dilakukan menggunakan query sql dengan metode string.
 
-<br>Adanya dua kode diatas membawa perubahan terhadap kode pada bagian 1. Pada setiap file bagian 1, diberikan kode php untuk memanggil fungsi yang ada pada koneksi maupun datahandler. Hal tersebut dilakukan agar penginputan dan manipulasi data yang tersimpan di dalam database dapat saling sinkron dan tidak terjadi perbedaan data.
-
-### Penambahan kode php pada file login
-![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/985f3645-f441-4948-ac1e-3abef801173d)
-![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/77f768d7-bebc-4c00-8262-bcab8e6ce417)
-<br>
-### Penambahan kode php pada file register
-![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/ab3fb73d-a084-4380-a2dd-c21a06483bc9)
-![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/91988d40-d3d9-46a0-98ec-cd67c2d2434e)
-<br>
-### Penambahan kode php pada file index
-![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/6e684327-f7f9-4b89-9c3d-b525a853de83)
-![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/598adc73-ad47-4156-9ee6-cb78373c8557)
-
 ## Bagian 3: Database Management (Bobot: 20%)
 
 Database yang digunakan pada web kali ini dibuat menggunakan hosting lokal phpmyadmin. Database dibuat dengan media xampp, kemudian dibuat melalui phpmyadmin. Tabel yang dibuat pada database berjumlah dua, yakni tab_form dan tab_acc.
@@ -74,4 +60,32 @@ Database yang digunakan pada web kali ini dibuat menggunakan hosting lokal phpmy
 <br>Tabel ini dibuat untuk menampung akun yang dapat melakukan login pada halaman web. Akun baru yang melakukan registrasi akan ditampung di dalam tabel ini. Selain itu, inputan login user akan diotentikasi pada tabel ini untuk mengecek apakah akun yang digunakan terdaftar atau tidak.
 
 ## Bagian 4: State Management (Bobot: 20%)
+
+Bagian ini merupakan bagian yang merubah file utama web (login, register, index) agar sesuai dengan file php (koneksi, datahandler) yang telah dibuat. Adanya dua file php tersebut menuntut perubahan pada ketiga file utama web. Hal tersebut dilakukan agar web dapat menjalankan fungsinya dengan baik.
+
+### Penambahan kode php pada file login
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/985f3645-f441-4948-ac1e-3abef801173d)
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/77f768d7-bebc-4c00-8262-bcab8e6ce417)
+<br>
+### Penambahan kode php pada file register
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/ab3fb73d-a084-4380-a2dd-c21a06483bc9)
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/91988d40-d3d9-46a0-98ec-cd67c2d2434e)
+<br>
+### Penambahan kode php pada file index
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/6e684327-f7f9-4b89-9c3d-b525a853de83)
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/598adc73-ad47-4156-9ee6-cb78373c8557)
+
 ## Bagian Bonus: Hosting Aplikasi Web (Bobot: 20%)
+
+Bagian ini menjelaskan tentang tool yang digunakan untuk melakukan hosting pada website yang telah dibuat. Hosting dilakukan melalui https://id.000webhost.com/ dan dilakukan secara gratis. Hosting dilakukan dengan login akun terlebih dahulu, kemudian mengupload file-file komponen web ke dalam file manager 000webhost. Database yang digunakan juga perlu dibuat ulang pada 000webhost dan disesuaikan dengan kode yang telah dibuat agar saling terhubung. Jika sudah, maka website tersebut akan memberikan link hasil hosting web.
+
+### Upload komponen web pada file manager
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/43197bd0-b4df-47f0-9483-da10993281d9)
+
+### Pembuatan ulang database
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/ff7a294a-8a5f-44f1-89a2-e6a9fd2ca988)
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/c8986e1c-b10c-425b-85df-06bb528adbb0)
+
+### Mendapatkan link hasil hosting
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/9c193b2b-1fbf-4a0a-a633-19e340926715)
+

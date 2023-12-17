@@ -62,5 +62,16 @@ Pada bagian ini, dibuat 2 file berjenis php, yakni file koneksi dan file DataHan
 
 ## Bagian 3: Database Management (Bobot: 20%)
 
+Database yang digunakan pada web kali ini dibuat menggunakan hosting lokal phpmyadmin. Database dibuat dengan media xampp, kemudian dibuat melalui phpmyadmin. Tabel yang dibuat pada database berjumlah dua, yakni tab_form dan tab_acc.
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/91baea23-f8ad-4e3b-a375-0070a446c9ea)
+
+### tab_form
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/d371edfe-63b3-45a6-a4d5-44e9417bd1aa)
+<br>Tabel ini dibuat untuk menampung inputan yang dilakukan user pada halaman index. Tabel ini juga digunakan pada fungsi di dalam DataHandler untuk dapat menampilkan isi dari tabel database dalam tabel pada halaman web.
+
+### tab_acc
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/b910703c-a49c-4976-8daf-366c984a0372)
+<br>Tabel ini dibuat untuk menampung akun yang dapat melakukan login pada halaman web. Akun baru yang melakukan registrasi akan ditampung di dalam tabel ini. Selain itu, inputan login user akan diotentikasi pada tabel ini untuk mengecek apakah akun yang digunakan terdaftar atau tidak.
+
 ## Bagian 4: State Management (Bobot: 20%)
 ## Bagian Bonus: Hosting Aplikasi Web (Bobot: 20%)

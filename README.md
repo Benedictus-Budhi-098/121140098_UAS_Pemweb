@@ -31,10 +31,6 @@ Pada bagian ini, dibuat 3 file html php berupa halaman login, halaman register, 
 ![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/ccab8bb5-3732-402b-9f58-df4940278292)
 
 
-
-
-
-
 ## Bagian 2: Server-side Programming (Bobot: 30%)
 ## Bagian 3: Database Management (Bobot: 20%)
 ## Bagian 4: State Management (Bobot: 20%)

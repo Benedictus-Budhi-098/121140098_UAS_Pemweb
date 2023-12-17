@@ -1,4 +1,4 @@
-![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/452ceb9b-9d14-4b32-9502-b4c6d5332bca)# 121140098_UAS_Pemweb
+# 121140098_UAS_Pemweb
 <br>web kali ini dibuat untuk melakukan registrasi perlombaan melalui web
 <br>inputan yang dilakukan kemudian akan disimpan ke dalam database
 

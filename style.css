@@ -1,0 +1,70 @@
+body {
+    background-color: #2E2749; /* Warna ungu tua untuk latar belakang body */
+    color: #FFFFFF; /* Warna teks putih */
+    font-family: 'Arial', sans-serif; /* Ganti dengan font yang diinginkan */
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #FFD700; /* Warna kuning untuk judul */
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, select {
+    padding: 8px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+button {
+    background-color: #FFD700; /* Warna kuning untuk tombol */
+    color: #2E2749; /* Warna ungu tua untuk teks tombol */
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+}
+
+button:hover {
+    background-color: #C0C0C0; /* Warna abu-abu ketika tombol dihover */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #FFFFFF; /* Garis putih di antara baris tabel */
+}
+
+th {
+    background-color: #FFD700; /* Warna kuning untuk header tabel */
+    color: #2E2749; /* Warna ungu tua untuk teks header tabel */
+}
+
+/* Form untuk menghilangkan default styling pada input radio dan select */
+form input[type="radio"], form select {
+    margin-right: 5px;
+}
+
+/* Form untuk menyesuaikan tata letak kolom */
+form label, form input, form select {
+    display: block;
+}

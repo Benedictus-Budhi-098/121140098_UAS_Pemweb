@@ -32,6 +32,20 @@ Pada bagian ini, dibuat 3 file html php berupa halaman login, halaman register, 
 
 
 ## Bagian 2: Server-side Programming (Bobot: 30%)
+
+Pada bagian ini, dibuat 2 file berjenis php, yakni file koneksi dan file DataHandler
+
+### koneksi.php
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/db1e4249-e1d9-427c-ab3a-074691578545)
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/15e13157-ad07-43e0-9ac8-53a82c9ecb5d)
+<br>Kode diatas digunakan agar website dapat terhubung dengan database. Penjelasan terkait kode dapat dilihat pada komen kode diatas.
+
+### DataHandler.php
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/2082fede-1f88-4451-abdb-3ad92806fd59)
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/19929128-f5b1-405b-8df1-2016d7f7d2bc)
+![image](https://github.com/Benedictus-Budhi-098/121140098_UAS_Pemweb/assets/146206806/7d8f24c1-e99a-4a41-9509-60a8d9c6468b)
+<br>Kode diatas digunakan untuk menampung fungsi-fungsi terkait manipulasi data pada server mysql. Manipulasi dilakukan menggunakan query sql dengan metode string.
+
 ## Bagian 3: Database Management (Bobot: 20%)
 ## Bagian 4: State Management (Bobot: 20%)
 ## Bagian Bonus: Hosting Aplikasi Web (Bobot: 20%)
